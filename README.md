@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samridhi Jaiswal</h1>
 <h3 align="center">Growing step by step</h3>
 <img align="right" alt="coding image" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
-- 🌱 I’m currently learning **React, NextJs, Deep Learning**
+- 🌱 I’m currently a student pursuing Computer Science with specialization in Artificial Intelligence and Machine Learning
 
 - 📫 How to reach me **samridhiworkzz@gmail.com**
 
